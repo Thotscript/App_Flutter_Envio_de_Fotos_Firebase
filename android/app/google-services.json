@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200076272357",
+    "project_id": "sistema-ili",
+    "storage_bucket": "sistema-ili.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200076272357:android:80a4b956050ce0ef06ea0c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200076272357-791q997aiipnmklbgm8dahtr9l84qt4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMTgkB_UP0qvyovG0QMnq_gYANPT71hXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200076272357-791q997aiipnmklbgm8dahtr9l84qt4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
